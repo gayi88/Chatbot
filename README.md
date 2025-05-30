@@ -3,7 +3,7 @@
 This project provides information about Partille municipality's bus timetables, stops, and routes.
 
 
-##🚌 Buses from Partille Centrum
+## 🚌 Buses from Partille Centrum
 74 – Partille → Angered Centrum
 
 X1 – Partille Centrum → Hornkamsgatan

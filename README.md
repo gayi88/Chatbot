@@ -40,7 +40,7 @@ Alingsås ↔ Göteborg — Regular regional train service connecting Alingsås 
 
 ## How it works
 
-- Users can ask questions about bus timetables, stops, and routes in Partille municipality.
+- Users can ask questions about above mentioned bus timetables, stops, and routes in Partille municipality.
 
 ## Note
 

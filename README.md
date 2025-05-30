@@ -10,4 +10,5 @@ This project provides information about Partille municipality's bus timetables, 
 
 The app may take some time to wake up initially. Please be patient.
 
-[Link text](https://chatbot-qd6zzyoatrnutydyhsdpw7.streamlit.app/)
+[https://chatbot-qd6zzyoatrnutydyhsdpw7.streamlit.app/]
+

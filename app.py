@@ -112,4 +112,3 @@ if st.button("🔍 Search"):
                         df.to_csv("feedback.csv", mode='w', header=True, index=False)
                 save_feedback(question, answer, feedback)
                 st.success("🙌 Thanks for your feedback!")
-

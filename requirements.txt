@@ -1,7 +1,4 @@
 streamlit
-google-generativeai
-python-dotenv
-PyMuPDF
 google-genai
 python-dotenv
-streamlit
+PyMuPDF
